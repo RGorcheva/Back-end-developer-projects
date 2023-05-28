@@ -1,0 +1,6 @@
+[23-03-2023 11:37:32] PROG_REPORT: Create directory /.LogErr
+[23-03-2023 11:37:33] PROG_REPORT: Connected to DB
+
+[23-03-2023 11:37:33] PROG_REPORT: Error during selection!
+[23-03-2023 11:37:33] PROG_REPORT: The customer does not exist!
+[23-03-2023 11:37:33] PROG_REPORT: Program did not execute successfully!

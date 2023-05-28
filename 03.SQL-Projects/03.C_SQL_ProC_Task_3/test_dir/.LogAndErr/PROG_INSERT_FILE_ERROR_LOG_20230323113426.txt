@@ -1,0 +1,36 @@
+[ERROR][23-03-2023 11:34:26] Rollback transaction: ORA-00001: unique constraint (TEAM2.SYS_C008529) violated
+
+[ERROR][23-03-2023 11:34:26] Error during updating! 	(Error code 2 - No such file or directory)
+	Error in line 430 in file ../7_Library/ProCsource/insertCustomer.c
+[ERROR][23-03-2023 11:34:26] IMP_CUSTOMER_DATA_20230214183755.txt: Line is NOT IMPORTED!
+[ERROR][23-03-2023 11:34:26] : line 2: 01;79;EXT1473;IVELINA;SIMOVA;f;;BULGARIA;5000;ivvvv45@jjj.gg
+
+[ERROR][23-03-2023 11:34:27] Line is NOT IMPORTED!: Contains wrong character in IntRef!
+[ERROR][23-03-2023 11:34:27] IMP_CUSTOMER_DATA_20230214183756.txt: Line is NOT IMPORTED!
+[ERROR][23-03-2023 11:34:27] : line 3: 01; ;EXT3428;VALENTIN;MILANOV;m;SOFIA;BULGARIA;998;v-milanov@jjj.gg
+
+[ERROR][23-03-2023 11:34:27] Line is NOT IMPORTED!: Contains wrong character in city!
+[ERROR][23-03-2023 11:34:27] IMP_CUSTOMER_DATA_20230214183756.txt: Line is NOT IMPORTED!
+[ERROR][23-03-2023 11:34:27] : line 4: 01;1474;EXT1474;IVELINA;SIMOVA;f; ;BULGARIA;5000;ivvvv45@jjj.gg;
+
+[ERROR][23-03-2023 11:34:27] Rollback transaction: ORA-00001: unique constraint (TEAM2.SYS_C008529) violated
+
+[ERROR][23-03-2023 11:34:27] Error during updating! 	(Error code 2 - No such file or directory)
+	Error in line 430 in file ../7_Library/ProCsource/insertCustomer.c
+[ERROR][23-03-2023 11:34:27] IMP_CUSTOMER_DATA_20230214183756.txt: Line is NOT IMPORTED!
+[ERROR][23-03-2023 11:34:27] : line 6: 01;79;EXT1475;IVELINA;SIMOVA;f;SOFIA;BULGARIA;5000;ivvvv45@jjj.gg;
+
+[ERROR][23-03-2023 11:34:29] Rollback transaction: ORA-00001: unique constraint (TEAM2.SYS_C008529) violated
+
+[ERROR][23-03-2023 11:34:29] Error during updating! 	(Error code 2 - No such file or directory)
+	Error in line 430 in file ../7_Library/ProCsource/insertCustomer.c
+[ERROR][23-03-2023 11:34:29] IMP_CUSTOMER_DATA_20230214183758.txt: Line is NOT IMPORTED!
+[ERROR][23-03-2023 11:34:29] : line 2: 01;79;EXT1473;IVELINA;SIMOVA;f;;BULGARIA;5000;ivvvv45@jjj.gg2;
+
+[ERROR][23-03-2023 11:34:29] Rollback transaction: ORA-00001: unique constraint (TEAM2.SYS_C008529) violated
+
+[ERROR][23-03-2023 11:34:29] Error during updating! 	(Error code 2 - No such file or directory)
+	Error in line 430 in file ../7_Library/ProCsource/insertCustomer.c
+[ERROR][23-03-2023 11:34:29] IMP_CUSTOMER_DATA_20230214183758.txt: Line is NOT IMPORTED!
+[ERROR][23-03-2023 11:34:29] : line 3: 01;79;EXT1473;IVELINA;SIMOVA;f;;BULGARIA;5000;ivvvv45@jjj.gg3;
+

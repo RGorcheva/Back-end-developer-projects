@@ -1,0 +1,40 @@
+[ERROR][23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[ERROR][23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+

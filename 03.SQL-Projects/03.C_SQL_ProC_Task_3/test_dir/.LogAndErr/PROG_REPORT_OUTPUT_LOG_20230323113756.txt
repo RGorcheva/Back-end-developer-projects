@@ -1,0 +1,49 @@
+[23-03-2023 11:37:56] PROG_REPORT: Create directory /.LogErr
+[23-03-2023 11:37:57] PROG_REPORT: Connected to DB
+
+[23-03-2023 11:37:58] Create report for customer_External_reference: EXT3427                                                     
+[23-03-2023 11:37:58] PROG_REPORT: Create directory /Report
+[23-03-2023 11:37:58] PROG_REPORT: Open cursor
+[23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:04] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] Rollback transaction: ORA-01405: fetched column value is NULL
+
+[23-03-2023 11:38:05] PROG_REPORT: Close cursor
+[23-03-2023 11:38:05] PROG_REPORT: Commit work release
+[23-03-2023 11:38:05] PROG_REPORT: Program executed successfully!

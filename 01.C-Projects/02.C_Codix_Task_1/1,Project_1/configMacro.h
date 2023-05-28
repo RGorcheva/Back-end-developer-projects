@@ -1,0 +1,21 @@
+#ifndef CONFIGMACRO_H
+#define CONFIGMACRO_H
+
+#define MAX_SIZE_FILENAME 40U
+#define MAX_SIZE_FILEPATH 260U
+
+#define MIN_FILE_ROWS 2U
+#define MAX_SIZE_NAME 20U
+#define MAX_SIZE_INVOICE 20U
+#define MAX_SIZE_STRDATE 10U
+#define MAX_SIZE_CURRENCY 4U
+#define VEC_CAPACITY 10U
+
+#define WSTR_FULL_FILENAME_PATTERN L"??????_????????_????????_??????.txt"
+#define STR_FULL_FILENAME_PATTERN "IMPORT_INVOICES_%4d%2d%2d_%2d%2d%2d.txt"
+#define STR_FILENAME_PATTERN_BEGIN "IMPORT_INVOICES_"
+#define STR_FILEDATA_PATTERN_DATE "%2d%2d%4d"
+
+extern char* apstrCurrency[];
+
+#endif

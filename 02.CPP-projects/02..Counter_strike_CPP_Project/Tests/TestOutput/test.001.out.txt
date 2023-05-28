@@ -1,0 +1,27 @@
+PlayerID 0 turn:
+Enemy left with: 88 health and 0 armor
+Enemy left with: 76 health and 0 armor
+Enemy left with: 64 health and 0 armor
+
+PlayerID 1 turn:
+Enemy left with: 88 health and 0 armor
+Enemy left with: 76 health and 0 armor
+Enemy left with: 64 health and 0 armor
+
+PlayerID 0 turn:
+Enemy left with: 52 health and 0 armor
+Enemy left with: 40 health and 0 armor
+Enemy left with: 28 health and 0 armor
+
+PlayerID 1 turn:
+Enemy left with: 52 health and 0 armor
+Enemy left with: 40 health and 0 armor
+Enemy left with: 28 health and 0 armor
+
+PlayerID 0 turn:
+Enemy left with: 16 health and 0 armor
+Enemy left with: 4 health and 0 armor
+Enemy left with: -8 health and 0 armor
+
+Player with ID: 0 wins!
+

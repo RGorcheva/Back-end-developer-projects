@@ -1,0 +1,4 @@
+[23-03-2023 11:34:14] PROG_INSERT_FILE: Create directory .LogErr
+[23-03-2023 11:34:14] PROG_INSERT_FILE: Initialize a vector vecFilenames to hold the correct filenames
+[23-03-2023 11:34:14] PROG_INSERT_FILE: Fill the vector vecFilenames
+[23-03-2023 11:34:17] Rollback transaction: ORA-01012: not logged on

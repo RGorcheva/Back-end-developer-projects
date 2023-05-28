@@ -1,0 +1,60 @@
+PlayerID 0 turn:
+Enemy left with: 105 health and 65 armor
+
+PlayerID 1 turn:
+Enemy left with: 154 health and 64 armor
+Enemy left with: 148 health and 58 armor
+Enemy left with: 142 health and 52 armor
+
+PlayerID 0 turn:
+Enemy left with: 90 health and 60 armor
+
+PlayerID 1 turn:
+Enemy left with: 136 health and 46 armor
+Enemy left with: 130 health and 40 armor
+Enemy left with: 124 health and 34 armor
+
+PlayerID 0 turn:
+Enemy left with: 75 health and 55 armor
+
+PlayerID 1 turn:
+Enemy left with: 118 health and 28 armor
+Enemy left with: 112 health and 22 armor
+Enemy left with: 106 health and 16 armor
+
+PlayerID 0 turn:
+Enemy left with: 60 health and 50 armor
+
+PlayerID 1 turn:
+Enemy left with: 100 health and 10 armor
+Enemy left with: 94 health and 4 armor
+Reloading...
+currClipBullets: 11, remainingAmmo: 17
+
+PlayerID 0 turn:
+Enemy left with: 45 health and 45 armor
+
+PlayerID 1 turn:
+Enemy left with: 86 health and 0 armor
+Enemy left with: 74 health and 0 armor
+Enemy left with: 62 health and 0 armor
+
+PlayerID 0 turn:
+Enemy left with: 30 health and 40 armor
+
+PlayerID 1 turn:
+Enemy left with: 50 health and 0 armor
+Enemy left with: 38 health and 0 armor
+Enemy left with: 26 health and 0 armor
+
+PlayerID 0 turn:
+Reloading...
+currClipBullets: 6, remainingAmmo: 15
+
+PlayerID 1 turn:
+Enemy left with: 14 health and 0 armor
+Enemy left with: 2 health and 0 armor
+Enemy left with: -10 health and 0 armor
+
+Player with ID: 1 wins!
+

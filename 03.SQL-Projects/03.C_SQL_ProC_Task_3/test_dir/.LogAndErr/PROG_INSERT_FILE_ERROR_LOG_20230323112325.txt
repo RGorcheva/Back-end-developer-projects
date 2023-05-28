@@ -1,0 +1,2 @@
+[ERROR][23-03-2023 11:23:25] Rollback transaction: ORA-01012: not logged on
+[ERROR][23-03-2023 11:23:25] PROG_INSERT_FILE: Error during connection!
